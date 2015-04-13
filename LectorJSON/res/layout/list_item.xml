@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="left|center"
+    android:paddingBottom="5px"
+    android:paddingLeft="5px"
+    android:paddingTop="5px" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+		<TextView
+		    android:id="@+id/username"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:text="name" />
+
+		<TextView
+		    android:id="@+id/clase"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="10px"
+		    android:text="clase"
+		    android:textColor="#0099CC"
+		    android:textSize="10sp" />
+
+		<TextView
+		    android:id="@+id/equipo"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="equipo" />
+
+		<TextView
+		    android:id="@+id/fortaleza"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="fortaleza"
+		    android:textColor="#aa00bb" />
+
+		<TextView
+		    android:id="@+id/fuerza"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="fuerza"
+		    android:textColor="#aa00bb" />
+
+		<TextView
+		    android:id="@+id/espiritu"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="espiritu"
+		    android:textColor="#aa00bb" />
+
+	</LinearLayout>
+
+</LinearLayout>

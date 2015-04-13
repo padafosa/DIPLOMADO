@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="60pt"
+        android:src="@drawable/logo"
+        android:layout_height="100pt"
+        android:layout_width="100pt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Sistema de Administracion de Visitas"
+        android:id="@+id/textView6"
+        android:layout_gravity="center_horizontal"
+        android:textSize="6pt"
+        android:textColor="#FFA500"
+        android:paddingTop="35pt"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="copyright 2015"
+        android:id="@+id/textView7"
+        android:layout_gravity="center_horizontal"
+        android:textSize="4pt"
+        android:textColor="#808080"
+        />
+
+
+</LinearLayout>

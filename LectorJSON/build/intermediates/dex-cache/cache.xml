@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\FF\LectorJSON\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\FF\LectorJSON\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-75fda576c636d8f7876e66e37abb3e9e0499563a.jar" />
+    </item>
+    <item
+        jar="F:\FF\LectorJSON\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\FF\LectorJSON\app\build\intermediates\pre-dexed\debug\classes-dd701b4addcfca9caac98d581ca50f04fdfe51a6.jar" />
+    </item>
+    <item
+        jar="F:\FF\LectorJSON\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="F:\FF\LectorJSON\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies-d7099c63d5f1a0910ad81f413d79455b8efaeadd.jar" />
+    </item>
+    <item
+        jar="F:\Diplomado-Android\LectorJSON\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Diplomado-Android\LectorJSON\app\build\intermediates\pre-dexed\debug\classes-6d1324f22cb2120b9c3dff63e6cf4ea47a931735.jar" />
+    </item>
+    <item
+        jar="F:\Diplomado-Android\LectorJSON\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="F:\Diplomado-Android\LectorJSON\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies-b73df1f5eb6526599abf14a7baba1023cbb25fb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pablo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="F:\FF\LectorJSON\app\build\intermediates\pre-dexed\debug\gson-2.3-0a1dd13b0b8669adde91cbca058b9d2ee772e45f.jar" />
+    </item>
+    <item
+        jar="F:\Diplomado-Android\LectorJSON\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\Diplomado-Android\LectorJSON\app\build\intermediates\pre-dexed\debug\classes-d80fd8176bede1a68941a19483743d7c0de55d57.jar" />
+    </item>
+    <item
+        jar="F:\FF\LectorJSON\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\FF\LectorJSON\app\build\intermediates\pre-dexed\debug\classes-1e1f9e3f36497c2034e13b83d6dc7a085299bffa.jar" />
+    </item>
+    <item
+        jar="F:\Diplomado-Android\LectorJSON\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Diplomado-Android\LectorJSON\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e5c72fb42d076436c7f1ee15dc1c7ccbfdc77615.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pablo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\FF\LectorJSON\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7e2e3bfbcb50939e2f2ab73a8214b84b95fef215.jar" />
+    </item>
+
+</items>

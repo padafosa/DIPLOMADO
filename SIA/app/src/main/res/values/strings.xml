@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+    <string name="title_section0">Inicio</string>
+    <string name="title_section1">Productos</string>
+    <string name="title_section2">Lista Visitas</string>
+    <string name="title_section3">Pedidos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Sistema de Administracion</string>
+
+    <string name="action_settings">Configuraciones</string>
+
+
+</resources>

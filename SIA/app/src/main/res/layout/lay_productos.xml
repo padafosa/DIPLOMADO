@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="5dp" >
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="500dp"
+        android:id="@+id/scrollView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:layout_width="500dp"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+>
+
+                <TableRow android:textAlignment="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp">
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="25dp"
+                        android:text="NUESTROS PRODUCTOS"
+                        android:id="@+id/txt_clientes"
+                        android:layout_gravity="center_horizontal"
+                        android:textAlignment="center"
+                        android:elegantTextHeight="@bool/abc_config_allowActionMenuItemTextWithIcon"
+                        android:layout_span="2"
+                        style="@style/Base.TextAppearance.AppCompat.Body1" />
+
+                </TableRow>
+
+                <TableRow>
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/produto1"
+                        android:textAlignment="center"/>
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="210dp"
+                        android:text="El Malathion es un tipo de insecticida, un producto empleado para matar o controlar insectos. La intoxicación puede ocurrir si usted ingiere el Malathion, manipula el producto sin guantes o no se lava las manos inmediatamente después de una exposición al veneno. La piel absorbe cantidades significativas del veneno, a menos que se tomen las precauciones adecuadas."
+                        android:id="@+id/txt_clientes"
+                        android:layout_gravity="center_horizontal"
+                        android:textAlignment="center"/>
+
+                </TableRow>
+
+                <TableRow>
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/produto2"
+                        android:textAlignment="center"/>
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="210dp"
+                        android:text="FORCE es una formulación insecticida destinada al control de insectos de suelo, tales como gusanos grises, de alambre, blancos, etc., y complementariamente contra pulguilla en remolacha. Protege el cultivo desde la siembra ya que se aplica conjuntamente con la semilla"
+                        android:id="@+id/txt_clientes"
+                        android:layout_gravity="center_horizontal"
+                        android:textAlignment="center"/>
+
+                </TableRow>
+
+                <TableRow>
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/produto3"
+                        android:textAlignment="center"/>
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="240dp"
+                        android:text="Karate Zeon es un insecticida que incorpora la alta potencia insecticida de Karate con la seguridad que proporciona la tecnología Zeon, tecnología de formulación en micro-esferas exclusiva de Syngenta. Es el insecticida piretroide líder del mercado gracias a su alta eficacia en el control de múltiples plagas en una gran variedad de cultivos. Actúa por contacto e ingestión, con un gran efecto de choque y también de repelencia."
+                        android:id="@+id/txt_clientes"
+                        android:layout_gravity="center_horizontal"
+                        android:textAlignment="center"/>
+
+                </TableRow>
+
+                <TableRow>
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="190dp"
+                        android:id="@+id/imageView"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/produto6"
+                        android:textAlignment="center"/>
+
+                    <TextView
+                        android:layout_width="270dp"
+                        android:layout_height="240dp"
+                        android:text="TRIGARD 75 WP interrumpe el ciclo de desarrollo de las larvas e impide la formación de pupas y adultos. Es eficaz sobre las larvas de dípteros que han adquirido resistencia a los insecticidas convencionales. Posee acción por contacto e ingestión. Penetra en los tejidos de las hojas y es absorbido también por las raíces, translocándose por toda la planta. Sobre las larvas que atacan las hojas, su actividad es inmediata; sus efectos sobre las minas o galerías se observarán en su totalidad pasados unos días."
+                        android:id="@+id/txt_clientes"
+                        android:layout_gravity="center_horizontal"
+                        android:textAlignment="center"/>
+
+                </TableRow>
+
+            </TableLayout>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
